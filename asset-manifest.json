@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cool-Calculator/static/css/main.3931487b.css",
+    "main.js": "/Cool-Calculator/static/js/main.8bb2613d.js",
+    "index.html": "/Cool-Calculator/index.html",
+    "main.3931487b.css.map": "/Cool-Calculator/static/css/main.3931487b.css.map",
+    "main.8bb2613d.js.map": "/Cool-Calculator/static/js/main.8bb2613d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3931487b.css",
+    "static/js/main.8bb2613d.js"
+  ]
+}
